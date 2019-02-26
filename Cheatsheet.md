@@ -1,7 +1,6 @@
 # Git Cheatsheet
 
-
-+ **fork**
++ **Fork**
 
 To copy someone's repository to your github. Remote, in github
 
@@ -108,5 +107,6 @@ To join together the changes that have been made
 Click [here](https://git-scm.com/docs) for even more information about git commands
 
 ---
+Or look at this cool whale
 
-
+![cool whale](https://media.treehugger.com/assets/images/2015/05/blue-whale.jpg)
