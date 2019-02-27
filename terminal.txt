@@ -1,0 +1,5 @@
+pwd: print working directory, shows  which directory you're in
+cd: change directory
+ls: list, shows what the current directory contains
+mkdir: create new directory
+touch: create new file
